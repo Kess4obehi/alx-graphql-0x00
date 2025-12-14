@@ -1,4 +1,5 @@
-query {
+# Query for Characters Page 4
+query GetCharactersPage4 {
   characters(page: 4) {
     results {
       id
